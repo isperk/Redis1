@@ -1,0 +1,6 @@
+D:\Proyects\Redis\Test1\RedisTest1\RedisTest1\bin\Debug\RedisTest1.dll
+D:\Proyects\Redis\Test1\RedisTest1\RedisTest1\bin\Debug\RedisTest1.pdb
+D:\Proyects\Redis\Test1\RedisTest1\RedisTest1\obj\Debug\RedisConfiguration.csprojResolveAssemblyReference.cache
+D:\Proyects\Redis\Test1\RedisTest1\RedisTest1\obj\Debug\RedisConfiguration.csproj.CoreCompileInputs.cache
+D:\Proyects\Redis\Test1\RedisTest1\RedisTest1\obj\Debug\RedisTest1.dll
+D:\Proyects\Redis\Test1\RedisTest1\RedisTest1\obj\Debug\RedisTest1.pdb
