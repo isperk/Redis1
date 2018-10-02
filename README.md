@@ -1,6 +1,6 @@
 # [Project Title]
 
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<img src="https://www.elevenpaths.com/wp-content/uploads/2014/03/11paths_logo.png?v=3&s=200" title="LogoApp" alt="LogoApp">
 
 One Paragraph of project description goes here
 
